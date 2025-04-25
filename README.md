@@ -6,4 +6,4 @@
     $ npm start
   ```
 
-  this project is from 2017
+This project, initiated in January 2017, is a React-based web application using React class components.
